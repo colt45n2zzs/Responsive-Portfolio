@@ -10,12 +10,10 @@
          border-bottom: 1px;
          border-bottom-style: solid;
          border-bottom-color: #777777;
-
 }
 
 header {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
         z-index: 12;
-
 }
 
 .toplist {position: absolute;
@@ -23,8 +21,7 @@ header {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
           top: 35%;
           margin: auto;
           display: inline; 
-          color: #777777;  
-        
+          color: #777777;        
 }
           
 #about { border-right: 1px;
@@ -33,15 +30,12 @@ header {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
           padding-right: 5px;
           text-decoration: none;
           color: #777777;
-
 }
 
 #about:hover {color: #4aaaa5;
-
 }
 
 #about:default {color: #777777;
-
 }
 
 #portfolio {border-right: 1px;
@@ -50,28 +44,22 @@ header {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
             padding-right: 5px;
             text-decoration: none;
             color: #777777;
-
 }
 
 #portfolio:hover {color: #4aaaa5;
-
 }
 
 #portfolio:default {color: #777777;
-
 }
 
 #contact {text-decoration: none;
           color: #777777;
-
 }  
 
 #contact:hover {color: #4aaaa5;
-
 }
 
 #contact:default {color: #777777;
-
 }
 
 .name {color: #ffffff;
@@ -86,26 +74,22 @@ header {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
        font-size: 24px;
        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
        font-weight: bold;
-       line-height: 1.2;
-       
+       line-height: 1.2;      
 }
 
 .body {background-image: url(../images/what-the-hex.png);
        color: #777777;
        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
        line-height: 1.5;
-
 }
 
 a {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
    line-height: 1.5;
    height: 22px;
-
 }
 
 strong {font-display: bold;
         font-size: 27px;      
-
 }
 
 .contentheader {color:#4aaaa5;
@@ -115,17 +99,14 @@ strong {font-display: bold;
                 padding-top: 10px; 
                 margin-left: 30px;
                 font-size: 27px;
-                font-weight: bold;
-      
+                font-weight: bold;    
 }
 
 #profile {float: left;
-          margin: 10px;
-          
+          margin: 10px;         
 }
 
 #p1 { text-align: left;
-
 }
 
 #box1 {height: 65%;
@@ -140,7 +121,6 @@ strong {font-display: bold;
        border: 1px;
        border-style: solid;
        border-color: #777777;
-
 }
 
 .box1contents {position: absolute;
@@ -151,13 +131,11 @@ strong {font-display: bold;
                border-top-color: #777777;
                margin-left: 30px;
                padding-top: 30px;
-
 }
 
 #profilepic {width: 150px;
              height: 150px; 
              float: left;
-
 }
 
 .box2 {height: 70%;
@@ -172,12 +150,10 @@ strong {font-display: bold;
        border: 1px;
        border-style: solid;
        border-color: #777777;
-
 }
 
 .box2contents {display: inline-block;
                width: 400px;
-
 }
 
 #box3 {height: 72%;
@@ -191,8 +167,7 @@ strong {font-display: bold;
        left: 20%;
        border: 1px;
        border-style: solid;
-       border-color: #777777;
-    
+       border-color: #777777;  
 }
 
 
@@ -203,12 +178,10 @@ strong {font-display: bold;
        border-top-style: solid;
        border-top-color: #777777;
        width: 900px;
-
 }
 
 .formtags {font-size: 18px;
           display: inline-block;
-
 }
 
 #submit {margin-top: 10px;
@@ -219,11 +192,8 @@ strong {font-display: bold;
          position: absolute;
          top: 99%;
          width: 75px;
-         text-align: center;
-    
+         text-align: center;   
 }
-
-
 
 #pheaderstyle {border-bottom: 1px;
                border-bottom-style: solid;
@@ -232,47 +202,36 @@ strong {font-display: bold;
                position: absolute;
                top: 70px;
                left: 30px;
-
 } 
 
 
 #ph1 {position: absolute;
       top: 100px;
       right: 100px;
-      
-
 }
 
 #ph2 {position: absolute;
       top: 100px;
       right: 400px;
-     
-
 }
 
 #ph3 {position: absolute;
       top: 100px;
-      right: 700px;
-    
-
+      right: 700px;    
 }
 
 #ph4 {position: absolute;
       top: 300px;
-      right: 700px;
-   
+      right: 700px; 
 }
 
 #ph5 {position: absolute;
       top: 300px;
       right: 400px;
-
-
 } 
         
 img {width: 180px;
      height: 140px;
-
 }
 
 #th1 {text-decoration: none;
@@ -285,7 +244,6 @@ img {width: 180px;
       right: 700px;
       width: 160px;
       text-align: center;
-
 }
 
 #th2 {text-decoration: none;
@@ -298,7 +256,6 @@ img {width: 180px;
       right: 400px;
       width: 160px;
       text-align: center;
-
 }
 
 #th3 {text-decoration: none;
@@ -311,7 +268,6 @@ img {width: 180px;
       right: 100px;
       width: 160px;
       text-align: center;
-
 }
 
 #th4 {text-decoration: none;
@@ -324,7 +280,6 @@ img {width: 180px;
       right: 400px;
       width: 160px;
       text-align: center;
-
 }
 
 #th5 {text-decoration: none;
@@ -337,11 +292,9 @@ img {width: 180px;
       right: 700px;
       width: 160px;
       text-align: center;
-
 }
 
 input {width: 900px;
-
 }
 
 .footer {
@@ -357,16 +310,13 @@ input {width: 900px;
     border-top-style: solid;
     border-top-color: #4aaaa5;
     z-index: 20;
-
 }
 
 @media screen and (max-width: 980px) {
       /* All pages */
-      .toplist, .header  {width: 100%;
-                             
+      .toplist, .header  {width: 100%;                           
       }
       .name{ left: 5%;
-
       }
       /* Index */
       #box1 { width: 60%;
@@ -381,6 +331,7 @@ input {width: 900px;
               height: 750px;
               left: 5%;
               margin: 0;
+              margin-bottom: 120px;
       }
       #pheaderstyle {width: 90%;
       }
@@ -428,7 +379,6 @@ input {width: 900px;
       textarea {width: 90%;
       }
       #submit {left: 0;
-
       }
 }
 
@@ -449,6 +399,7 @@ input {width: 900px;
       .box2 { width: 90%;
               height: 700px;
               left: 5%;
+              margin-bottom: 120px;
       }
       #pheaderstyle {width: 90%;
       }
@@ -495,7 +446,6 @@ input {width: 900px;
       textarea {width: 90%;
       }
       #submit {left: 0;
-
       }
 }
 
@@ -503,15 +453,13 @@ input {width: 900px;
       /* All pages */
       .toplist {
                 display: block;
-                top: 12%;
+                top: 11%;
                 left: 33%;
-                position: fixed;
-
+                
       }
       .header {height: 110px;
                width: 100%;
-               position: static;
-
+              position: static; 
       }
       .name{ left: 0;
              display: block;
@@ -522,12 +470,12 @@ input {width: 900px;
       }
       html { overflow-y: scroll; 
       }
-
       /* Index */
       #box1 { width: 80%;
               height: 600px;
               left: 10%;
               top: 130px;
+              margin-bottom: 120px;
       }
       .box1contents { font-size: 13px;
       }
@@ -536,6 +484,7 @@ input {width: 900px;
               height: 1150px;
               left: 10%;
               top: 130px;
+              margin-bottom: 120px;
               
       }
       #pheaderstyle {width: 90%;
@@ -576,7 +525,7 @@ input {width: 900px;
               height: 520px;
               left: 10%;
               top: 130px;
-              
+              margin-bottom: 120px;         
       }
       #form { width: 90%;
               float: left;
@@ -584,10 +533,8 @@ input {width: 900px;
       input {width: 90%;
       }
       textarea {width: 90%;
-
       }
       #submit {top: 100%;
               left: 4%;
-
       }
 }

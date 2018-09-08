@@ -369,43 +369,65 @@ input {width: 900px;
 
       }
       /* Index */
-      #box1 { width: 620px;
-              height: 500px;
+      #box1 { width: 60%;
+              height: 620px;
               left: 5%;
+              margin: 0;
       }
       .box1contents { font-size: 14px;
       }
       /* Portfolio */
-      .box2 { width: 620px;
-              height: 700px;
+      .box2 { width: 60%;
+              height: 750px;
               left: 5%;
-
+              margin: 0;
       }
-      #pheaderstyle {width: 560px;
+      #pheaderstyle {width: 90%;
+      }
+      #ph2 {top: 100px;
+            right: 55%;
+      }
+      #th2 {top: 192px;
+            right: 55%;
+      }
+      #ph5 {top: 300px;
+            right: 55%;
+      }
+      #th4 {top: 392px;
+            right: 55%;
+      }
+      #ph1 {top: 100px;
+            right: 15%;
+      }
+      #th3 {top: 192px;
+            right: 15%;
       }
       #ph3 {top: 300px;
-            right: 100px;
+            right: 15%;
       }
       #th1 {top: 392px;
-            right: 100px;
+            right: 15%;
       }
-      #ph4 {top: 500px;
-            right: 400px;
+      #ph4 { top: 500px;
+             right: 55%;
       }
       #th5 {top: 592px;
-            right: 400px;
+            right: 55%;
       }
       /* Contact */
-      #box3 { width: 620px;
-              height: 500px;
+      #box3 { width: 60%;
+              height: 510px;
+              left: 5%;
+              margin: 0;
+      }
+      #form { width: 90%;
               left: 5%;
       }
-      #form { width: 560px;
-              float: left;
+      input {width: 90%;
       }
-      input {width: 560px;
+      textarea {width: 90%;
       }
-      textarea {width: 560px;
+      #submit {left: 0;
 
       }
 }
@@ -417,42 +439,62 @@ input {width: 900px;
       .name{ left: 5%;
       }
       /* Index */
-      #box1 { width: 600px;
-              height: 480px;
+      #box1 { width: 90%;
+              height: 500px;
               left: 5%;
       }
-      .box1contents { font-size: 12px;
+      .box1contents { font-size: 14px;
       }
       /* Portfolio */
-      .box2 { width: 600px;
+      .box2 { width: 90%;
               height: 700px;
               left: 5%;
       }
-      #pheaderstyle {width: 540px;
+      #pheaderstyle {width: 90%;
+      }
+      #ph2 {top: 100px;
+            right: 60%;
+      }
+      #th2 {top: 192px;
+            right: 60%;
+      }
+      #ph5 {top: 300px;
+            right: 60%;
+      }
+      #th4 {top: 392px;
+            right: 60%;
+      }
+      #ph1 {top: 100px;
+            right: 15%;
+      }
+      #th3 {top: 192px;
+            right: 15%;
       }
       #ph3 {top: 300px;
-            right: 100px;
+            right: 15%;
       }
       #th1 {top: 392px;
-            right: 100px;
+            right: 15%;
       }
-      #ph4 {top: 500px;
-            right: 400px;
+      #ph4 { top: 500px;
+             right: 60%;
       }
       #th5 {top: 592px;
-            right: 400px;
+            right: 60%;
       }
       /* Contact */
-      #box3 { width: 600px;
-              height: 480px;
+      #box3 { width: 90%;
+              height: 510px;
               left: 5%;
       }
-      #form { width: 540px;
-              float: left;
+      #form { width: 90%;
+              left: 5%;
       }
-      input {width: 540px;
+      input {width: 90%;
       }
-      textarea {width: 540px;
+      textarea {width: 90%;
+      }
+      #submit {left: 0;
 
       }
 }
@@ -483,7 +525,7 @@ input {width: 900px;
 
       /* Index */
       #box1 { width: 80%;
-              height: 540px;
+              height: 600px;
               left: 10%;
               top: 130px;
       }
